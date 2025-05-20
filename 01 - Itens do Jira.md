@@ -1,10 +1,10 @@
 # Elementos do Jira
 
 ## Itens utilizados no Jira (Mesmo utilizado nas metodologias ágeis)
--Épicos
--Histórias
--Tarefas
--Bugs (Adicionado pelo Jira)
+- Épicos
+- Histórias
+- Tarefas
+- Bugs (Adicionado pelo Jira)
 
 ## Épicos
 É um agrupamento de histórias do projeto, um container que vai agrupar tudo que vai ser preciso naquele projeto.
